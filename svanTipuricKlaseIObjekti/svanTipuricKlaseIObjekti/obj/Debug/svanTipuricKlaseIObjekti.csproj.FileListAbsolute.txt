@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\svanTipuricKlaseIObjekti\svanTipuricKlaseIObjekti\bin\Debug\svanTipuricKlaseIObjekti.exe.config
+C:\Users\Korisnik\source\repos\svanTipuricKlaseIObjekti\svanTipuricKlaseIObjekti\bin\Debug\svanTipuricKlaseIObjekti.exe
+C:\Users\Korisnik\source\repos\svanTipuricKlaseIObjekti\svanTipuricKlaseIObjekti\bin\Debug\svanTipuricKlaseIObjekti.pdb
+C:\Users\Korisnik\source\repos\svanTipuricKlaseIObjekti\svanTipuricKlaseIObjekti\obj\Debug\svanTipuricKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTipuricKlaseIObjekti\svanTipuricKlaseIObjekti\obj\Debug\svanTipuricKlaseIObjekti.exe
+C:\Users\Korisnik\source\repos\svanTipuricKlaseIObjekti\svanTipuricKlaseIObjekti\obj\Debug\svanTipuricKlaseIObjekti.pdb
